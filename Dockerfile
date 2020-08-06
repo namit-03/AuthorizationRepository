@@ -7,16 +7,16 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
-COPY ["Authorization MicroService.csproj", ""]
-RUN dotnet restore "./Authorization MicroService.csproj"
+COPY ["AuthorizationMicroService.csproj", ""]
+RUN dotnet restore "./AuthorizationMicroService.csproj"
 COPY . .
 WORKDIR "/src/."
-RUN dotnet build "Authorization MicroService.csproj" -c Release -o /app/build
+RUN dotnet build "AuthorizationMicroService.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "Authorization MicroService.csproj" -c Release -o /app/publish
+RUN dotnet publish "AuthorizationMicroService.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Authorization MicroService.dll"]
+ENTRYPOINT ["dotnet", "AuthorizationMicroService.dll"]
