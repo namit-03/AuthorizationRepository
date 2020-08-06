@@ -1,0 +1,105 @@
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Authorization MicroService.exe
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.csprojAssemblyReference.cache
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.AssemblyInfoInputs.cache
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.AssemblyInfo.cs
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.RazorTargetAssemblyInfo.cache
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\staticwebassets\Authorization MicroService.StaticWebAssets.Manifest.cache
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\staticwebassets\Authorization MicroService.StaticWebAssets.xml
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.csproj.CopyComplete
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Authorization MicroService.deps.json
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Authorization MicroService.runtimeconfig.json
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Authorization MicroService.runtimeconfig.dev.json
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Authorization MicroService.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Authorization MicroService.pdb
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.dll
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.pdb
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.genruntimeconfig.cache
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\log4net.config
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\log4net.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\Authorization MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.csproj.CoreCompileInputs.cache
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\Authorization MicroService\obj\Debug\netcoreapp3.1\Authorization MicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Authorization MicroService.exe
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Authentication.yaml
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Authorization MicroService.deps.json
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Authorization MicroService.runtimeconfig.json
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Authorization MicroService.runtimeconfig.dev.json
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Authorization MicroService.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Authorization MicroService.pdb
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.AssemblyInfo.cs
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.csproj.CopyComplete
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\staticwebassets\Authorization MicroService.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\staticwebassets\Authorization MicroService.StaticWebAssets.xml
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.dll
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.pdb
+C:\Users\User\Desktop\Return Order Management\AuthorizationMicroMervice\obj\Debug\netcoreapp3.1\Authorization MicroService.genruntimeconfig.cache

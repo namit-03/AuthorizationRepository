@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authenticationmicroservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: AuthenticationMicroService
+  template:
+    metadata:
+      labels:
+        app: AuthenticationMicroService
+    spec:
+      containers:
+      - name: authenticationmicroservice
+        image:  returnorderrn.azurecr.io/authenticationrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: authenticationsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: authenticationmicroservice
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: AuthenticationMicroService
